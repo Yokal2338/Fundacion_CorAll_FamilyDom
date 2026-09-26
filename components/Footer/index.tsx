@@ -76,19 +76,19 @@ const Footer = () => {
                 </a>
                 <br />
                 <a
-                  href="mailto:CorAllFamilyDominicana@gmail.com"
+                  href="mailto:fundacion@coralldominicana.org"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
                   <MdEmail
                     size={18}
                     className="mr-2 inline-block text-amber-600"
                   />
-                  CorAllFamilyDominicana@gmail.com
+                  fundacion@coralldominicana.org
                 </a>
                 <br />
                 {isContactPage && (
                   <a
-                    href="mailto:CorAllFamilyDominicana@gmail.com"
+                    href="mailto:fundacion@coralldominicana.org"
                     className="text-itemtitle font-medium text-black dark:text-white"
                   >
                     <MdLocationOn
